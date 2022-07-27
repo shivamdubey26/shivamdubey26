@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I am shivam 
+### how can I help you
+
 
 <!--
 **shivamdubey26/shivamdubey26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
