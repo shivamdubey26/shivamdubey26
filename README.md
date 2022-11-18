@@ -1,4 +1,4 @@
-## Hi 👋, I am Shivam Dubey
+# Hi 👋, I am Shivam Dubey
 
 
 - 🔭 I’m currently pursuing b. tech in GEC bharatpur
